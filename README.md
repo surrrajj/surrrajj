@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **c++ or Java**
 
 - 📫 How to reach me **surajkr4440@gmail.com**
 
