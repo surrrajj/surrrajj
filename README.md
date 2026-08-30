@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **DSA && CP**
 
-- 🎯 I’m currently learning **Java**
+- 🎯 I’m currently learning **Java Backend Development**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
